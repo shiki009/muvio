@@ -1,15 +1,10 @@
 
-# Django-Next.js-Boilerplate!
+# Muvio!
 
-This is a basic boilerplate starter for a fullstack web project with Django as the server, PostgreSQL as the database and Next.js as the frontend.
-
-<a href="https://www.codefactor.io/repository/github/akshat2602/django-nextjs-boilerplate/overview/master" target="_blank"> <img src="https://img.shields.io/codefactor/grade/github/akshat2602/django-nextjs-boilerplate?style=flat-square" /> </a>
-<a href="https://github.com/akshat2602/django-nextjs-template/blob/master/LICENSE" target="_blank"> <img src="https://img.shields.io/github/license/akshat2602/django-nextjs-template?style=flat-square" /> </a>
-<a href="https://github.com/akshat2602/django-nextjs-template" target="_blank"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/akshat2602/django-nextjs-template?style=flat-square"> </a>
+This is a muvio web project with Django as the server, PostgreSQL as the database and Next.js as the frontend.
 
 
-
-## About the template 
+## About the project 
 -   PostgreSQL used as the primary database.
 -   Superuser is already initialized with the credentials: Username- `admin`, Email- `admin@admin.com`, Password- `admin`
 -   Integration with Django Rest Framework
@@ -28,7 +23,7 @@ To get a local copy of this template up and running on your machine, follow thes
 `sudo sh get-docker.sh`
 
 ### Installation
-- Clone the repo `git clone https://github.com/akshat2602/django-nextjs-boilerplate.git`
+- Clone the repo `git clone https://github.com/shiki009/muvio`
 - Change the current directory to the template `cd django-nextjs-boilerplate`
 - Build the docker containers`docker-compose -f docker-compose.dev.yml build` for the dev containers and `docker-compose -f docker-compose.prod.yml build` for the prod containers
 - Run the docker containers`docker-compose -f docker-compose.dev.yml up` for the dev containers and `docker-compose -f docker-compose.prod.yml up` for the prod containers
@@ -59,6 +54,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Akshat Sharma - [akshatsharma2602@gmail.com](mailto:akshatsharma2602@gmail.com)
-Project Link: [https://github.com/akshat2602/django-nextjs-boilerplate](https://github.com/akshat2602/django-nextjs-boilerplate)
+Akshat Sharma - [vladislav.sikirjavoi@gmail.com](mailto:vladislav.sikirjavoi@gmail.com)
+Project Link: [https://github.com/shiki009/muvio](https://github.com/shiki009/muvio)
 
